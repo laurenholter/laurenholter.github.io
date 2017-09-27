@@ -1,4 +1,4 @@
-<center>
+<p align="justify">
 # Lauren Holter
 ## Reporter, Writer, Editor
-</center>
+</p>
