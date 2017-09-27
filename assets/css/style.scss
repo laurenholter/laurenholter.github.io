@@ -10,12 +10,14 @@ left: 50%;
 margin-right: -50%;
 transform: translate(-50%, -50%)
 }
-a {
-    color: black;
-}
-a:link {
-	color: black;
-}
-a:visited {
-	color: black;
+#main_content_wrap {
+	a {
+    	color: black;
+	}
+	a:link {
+		color: black;
+	}
+	a:visited {
+		color: black;
+	}
 }
