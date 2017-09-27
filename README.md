@@ -1,2 +1,1 @@
-# Lauren Holter
-## Reporter, Writer, Editor
+[About](~/about)
