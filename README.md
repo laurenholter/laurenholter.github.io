@@ -1,1 +1,1 @@
-[About](/about)	[Writing](/writing)
+.center[[About](/about)	[Writing](/writing)]
