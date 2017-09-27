@@ -1,1 +1,1 @@
-[About](/about)
+[About](/about)	[Writing](/writing)
