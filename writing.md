@@ -1,7 +1,10 @@
 #### Refinery29
-* [The Female White House Communications Team Is Just Good Optics](http://www.refinery29.com/2017/09/172015/women-run-white-house-communications-team)
-* [I Lost My Home In Hurricane Harvey](http://www.refinery29.com/2017/08/170287/lost-my-home-hurricane-harvey-flood)
-* [Black & Latinx Ivy League Students Are Underrepresented — & They Feel It](http://www.refinery29.com/2017/08/169514/black-latinx-ivy-league-students-underrepresented)
+[The Female White House Communications Team Is Just Good Optics](http://www.refinery29.com/2017/09/172015/women-run-white-house-communications-team)
+
+[I Lost My Home In Hurricane Harvey](http://www.refinery29.com/2017/08/170287/lost-my-home-hurricane-harvey-flood)
+
+[Black & Latinx Ivy League Students Are Underrepresented — & They Feel It](http://www.refinery29.com/2017/08/169514/black-latinx-ivy-league-students-underrepresented)
+
 * [Trump's Military Ban Means I'm "Not Deemed Worthy" To Enlist](http://www.refinery29.com/2017/08/169902/transgender-woman-cant-enlist-military)
 * [Ivanka & Jared Tend To Be On Vacation When Things Get Heated In D.C.](http://www.refinery29.com/2017/08/168372/ivanka-trump-jared-kushner-vacation-during-dc-crises)
 * [I Tried On Ivanka Trump Pants & Got Really Confused In A Marshalls Dressing Room](http://www.refinery29.uk/2017/08/167967/ivanka-trump-clothing-brand-boycott-confusion)
