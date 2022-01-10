@@ -1,17 +1,32 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
     <style>    
-     img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      }
+     #full_image {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  white-space: nowrap;
+  overflow: hidden;
+  position: absolute;
+}
+
+#full_image li {
+  display: inline;
+}
+
+#full_image li img {
+  margin: 0 auto;
+  max-width: 100%
+}
     </style>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Hi!</h2>
                 <p>Lauren Holter is a freelance writer, editor, and content strategist who specializes in news, politics, and the environment. She has been published on websites including Bustle, Refinery29, and Teen Vogue, as well as overseen content creation for private companies.</p>
+                <ul id="full_image">
+                    <li>
                 <img src="/img/logos/college_pulse.png" alt="College Pulse">
+                    </li>
                 <img src="/img/logos/wealthfront.png" alt="Wealthfront">
                 <img src="/img/logos/bustle.png" alt="Bustle">
                 <img src="/img/logos/refinery29.png" alt="Refinery29">
