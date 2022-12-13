@@ -57,6 +57,10 @@ a:focus {
     color: #11505d;
 }
 
+.light-link {
+    color: {{ site.color.light-link}};
+}
+
 .light {
     font-weight: 400;
 }
