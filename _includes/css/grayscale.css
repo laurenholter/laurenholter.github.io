@@ -57,6 +57,14 @@ a:focus {
     color: #11505d;
 }
 
+.light-link {
+    color: {{ site.color.light-link}};
+}
+
+.fa-twitter {
+    color: #1DA1F2;
+}
+
 .light {
     font-weight: 400;
 }
