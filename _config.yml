@@ -7,7 +7,7 @@ description: "Writer, Editor, Content Strategist"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  light-link: "#475760"
+  light-link: "#698291"
   links: '#bfdff1'
 
 # Footer settings
